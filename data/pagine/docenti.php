@@ -13,17 +13,17 @@
 <h4>Informazioni docenti</h4><br>
 <strong>Primo semestre</strong>:
 <ul>
-	<li><strong>Docente</strong>: <a href="http://www.unive.it/data/persone/5592165">Marta Simeoni</a></li>
+	<li><strong>Docente</strong>: <a href="http://www.unive.it/">Marta x</a></li>
 	<li><strong>Ufficio</strong>: stanza 4</li>
-	<li><strong>E-mail</strong>: <a class="mail" href="mail:simeoni@dsi.unive.it">simeoni@dsi.unive.it</a></li>
+	<li><strong>E-mail</strong>: <a class="mail" href="mail:x@unive[DOT]com">x@unive[DOT]com</a></li>
 	<li><strong>Orario di ricevimento</strong>: Mercoledì dalle 13.00 alle 15.00</li>
 </ul>
 
 <strong>Secondo semestre</strong>:
 <ul>
-	<li><strong>Docente</strong>: <a href="http://www.unive.it/data/persone/5592727">Salvatore Orlando</a></li>
+	<li><strong>Docente</strong>: <a href="http://www.unive.it/">Salvatore y</a></li>
 	<li><strong>Ufficio</strong>: stanza 19</li>
-	<li><strong>E-mail</strong>: <a class="mail" href="mail:orlando@dsi.unive.it">orlando@dsi.unive.it</a></li>
+	<li><strong>E-mail</strong>: <a class="mail" href="mail:y@unive[DOT]com">y@unive[DOT]com</a></li>
 	<li><strong>Orario di ricevimento</strong>: Mercoledì dalle 11.00</li>
 </ul>
 
