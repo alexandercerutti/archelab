@@ -1,0 +1,96 @@
+{
+	"mod1": {
+		    "Introduzione": {
+		        "file": "01-Intro.pdf",
+		        "printfile": "01-Intro-plain.pdf",
+				"when": "15-09-12"
+		    },
+		    "Rappresentazione dell'informazione": {
+		        "file": "02-numbers.pdf",
+		        "printfile": "02-numbers-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Esercizi su rappresentazione dei numeri e aritmetica dei calcolatori": {
+		        "file": "03_ese_numbers.pdf",
+		        "printfile": "",
+		        "when": "15-09-12"
+		    },
+		    "Algebra booleana e circuiti logici": {
+		        "file": "04-bool.pdf",
+		        "printfile": "04-bool-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Esercitazioni su Algebra booleana e circuiti logici": {
+		        "file": "05_ese_bool.pdf",
+		        "printfile": "",
+		        "when": "15-09-12"
+		    },
+		    "Circuiti combinatori": {
+		        "file": "06-circuiti.pdf",
+		        "printfile": "06-circuiti-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "MIPS: assembler e linguaggio macchina": {
+		        "file": "07_ISA-MIPS.pdf",
+		        "printfile": "07_ISA-MIPS-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Ciruiti combinatori: ALU": {
+		        "file": "08-alu.pdf",
+		        "printfile": "08-alu-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Moltiplicazione e divisione tra numeri interi": {
+		        "file": "09-mult.pdf",
+		        "printfile": "09-mult-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Memoria e circuiti sequenziali": {
+		        "file": "10_memoria_circ_seq.pdf",
+		        "printfile": "10_memoria_circ_seq-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Specifica e sintesi di circuiti sequenziali": {
+		        "file": "11_sintesi_circ_seq.pdf",
+		        "printfile": "11_sintesi_circ_seq-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Esercitazioni su circuiti sequenziali": {
+		        "file": "12_ese_circ_seq.pdf",
+		        "printfile": "12_ese_circ_seq-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Progetto CPU (ciclo singolo)": {
+		        "file": "13_progetto-singolo.pdf",
+		        "printfile": "13_progetto-singolo-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Progetto CPU (multi-ciclo)": {
+		        "file": "14_progetto-multi.pdf",
+		        "printfile": "14_progetto-multi-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Prestazioni": {
+		        "file": "15_prestazioni.pdf",
+		        "printfile": "15_prestazioni-plain.pdf",
+		        "when": "15-09-12"
+		    },
+		    "Esercitazioni su Prestazioni": {
+		        "file": "16_ese_prestazioni.pdf",
+		        "printfile": "",
+		        "when": "15-09-12"
+		    }
+		},
+	"mod2": {
+			"MPIS e ISA alternativi - RISC vs. CISC": {
+		        "file": "mod2/Mod2_01_ISA-MIPS.pdf",
+		        "printfile": "",
+		        "when": "16-02-01"
+		    },
+		    "Parallelismo a livello di istruzioni (Architettura Pipeline)": {
+		        "file": "mod2/Mod2_02_ilp.pdf",
+		        "printfile": "",
+		        "when": "16-02-01"
+		    }
+	    }
+}

@@ -1,0 +1,28 @@
+{
+	"tutorato": {
+			"Esercizi su rappresentazione dei numeri nel calcolatore (9 ott 2015)": {
+				"file": "tutor/Tut091015.pdf",
+				"when": "15-09-01"
+			},
+			"Esercizi su rappresentazione dei numeri nel calcolatore (16 ott. 2015)": {
+				"file": "02-numbers.pdf",
+				"when": "15-09-01"
+			},
+			"Esercizi sui circuiti combinatori (23 ott. 15)": {
+				"file": "03_ese_numbers.pdf",
+				"when": "15-09-01"
+			},
+			"Esercizi sui circuiti sequenziali (27 nov. 15)": {
+				"file": "04-bool.pdf",
+				"when": "15-09-01"
+			},
+			"Esercizi sui circuiti sequenziali (4 dic. 15)": {
+				"file": "05_ese_bool.pdf",
+				"when": "15-09-01"
+			},
+			"Esercizi sulle prestazioni (11 dic. 15)": {
+				"file": "06-circuiti.pdf",
+				"when": "15-09-01"
+			}
+		}
+}

@@ -1,0 +1,1 @@
+La cartella UTILS serve esclusivamente a contenere documenti o informazioni pubbliche, quali quelli presenti nella pagina "Materiale Didattico", diverse da lezioni od esami.
