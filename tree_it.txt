@@ -1,0 +1,104 @@
+Struttura cartelle iniziale:
+
+•~architet/
+	| index.php
+	| .htaccess
+	• style/
+	|	|-- style.css
+	|	|-- style.min.css
+	|	|-- lato.css
+	|	|-- lato.min.css
+	|	|-- cssnormalize.min.css
+	|
+	• img/
+	|	|-- printer.svg
+	|	|-- mail.svg
+	|	|-- logo05.png
+	|	|-- logo.png
+	|	|-- externalink.svg
+	|	• fav/
+	|		• android/
+	|		|	|-- manifest.json
+	|		|	|-- android-chrome-36x36.png
+	|		|	|-- android-chrome-48x48.png
+	|		|	|-- android-chrome-72x72.png
+	|		|	|--	android-chrome-96x96.png
+	|		|	|-- android-chrome-144x144.png
+	|		|	|--	android-chrome-192x192.png
+	|		|
+	|		• iOS/
+	|		|	|-- apple-touch-icon-57x57.png
+	|		|	|-- apple-touch-icon-60x60.png
+	|		|	|-- apple-touch-icon-72x72.png
+	|		|	|-- apple-touch-icon-76x76.png
+	|		|	|-- apple-touch-icon-114x114.png
+	|		|	|-- apple-touch-icon-120x120.png
+	|		|	|-- apple-touch-icon-144x144.png
+	|		|	|-- apple-touch-icon-152x152.png
+	|		|	|-- apple-touch-icon-180x180.png
+	|		|	|-- apple-touch-icon-precomposed.png
+	|		|	|-- apple-touch-icon.png
+	|		|
+	|		• ms/
+	|		| 	|-- browserconfig.xml
+	|	   	| 	|-- mstile-70x70.png
+	|	   	| 	|-- mstile-144x144.png
+	|	   	| 	|-- mstile-150x150.png
+	|	   	| 	|-- mstile-310x150.png
+	|	   	| 	|-- mstile-310x310.png
+	|	   	| 
+	|		|-- safari-pinned-tab.svg
+	|		|-- favicon-16x16.png
+	|		|-- favicon-32x32.png
+	|		|-- favicon-96x96.png
+	|		|-- favicon-194x194.png
+	|		|-- favicon.ico
+	|
+	• data/
+	|	• utils/
+	|	|	|-- {documenti vari da mostrare nel sito}
+	|	|
+	|	• services/
+	|	|	• flight/
+	|	|	|	|-- {componenti Framework}
+	|	|	|
+	|	|	|-- template.php
+	|	|	|-- main.php
+	|	|	|-- controller.php
+	|	|	|-- 404.php
+	|	|
+	|	• pagine/
+	|	|	|-- news.php
+	|	|	|-- intro.php
+	|	|	|-- docenti.php
+	|	|	|-- modesami.php
+	|	|	|-- materiale.php
+	|	|	|-- lezioni.php
+	|	|	|-- esami.php
+	|	|	|-- tutorato.php
+	|	|
+	|	• lezioni/
+	|	|	•-- mod1/
+	|	|	|	  |-- {tutte le slide del modulo 1}
+	|	|	•-- mod2/
+	|	|		  |-- {tutte le slide del modulo 2}
+	|	|
+	|	• esami/
+	|		•-- mod1/
+	|		|	  |-- {tutti gli esami del modulo 1}
+	|		•-- mod2/
+	|			  |-- {tutti gli esami del modulo 2}
+	|
+	•
+
+DESCRIZIONI:
+	• index.php			: documento principale. Composto da 5 righe, carica i file all'interno di /data/services
+	• .htaccess			: documento del web server. NON TOCCARE.
+	• style				: cartella degli stili CSS. File utilizzato dal template: style.min.css
+	• img				: immagini
+	• data				: cartella contenente tutti i dati del sito
+		|-- services	: cartella contenente tutto il necessario per far funzionare il sito. Grafica posizionata in template.php. NON TOCCARE
+		|-- pagine		: cartella contenente tutte le pagine da modificare e che vengono mostrate in base al collegamento
+		|-- lezioni		: cartella per le slide, divisi per mod1 e mod2
+		|-- esami		: cartella per gli esami, divisi per mod1 e mod2
+		|-- utils		: cartella per tutti gli altri file
