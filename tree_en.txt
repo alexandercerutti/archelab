@@ -1,4 +1,4 @@
-Struttura cartelle iniziale:
+Initial folder structure:
 
 •~architet/
 	| index.php
